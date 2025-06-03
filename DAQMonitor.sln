@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36127.28 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PyQtTrial", "PyQtTrial\PyQtTrial.pyproj", "{4A85F051-DA4B-466B-83BC-3CD0797DA7D9}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "DAQMonitor", "PyQtTrial\DAQMonitor.pyproj", "{4A85F051-DA4B-466B-83BC-3CD0797DA7D9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
